@@ -86,12 +86,6 @@ Bu proje, açık kaynak lisansı altında yayımlanmıştır. Daha fazla bilgi i
 
 ---
 
-## ❗ UYARI 
-
-Yapay zeka modeli her türlü işlemi yapabilme yetisine sahiptir, lütfen modeli etik ve legal amaçlara hizmet etme amacıyla kullanın 🙏
-
----
-
 ## 💡 Sıkça Sorulan Sorular (SSS)
 
 ### 1. Bu proje hangi amaçlarla kullanılabilir?
